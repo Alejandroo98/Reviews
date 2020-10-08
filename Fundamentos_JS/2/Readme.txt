@@ -1,0 +1,18 @@
+- Reducir un array - L.1
+- Sumar todos los llibros que tienen cada uno de los objetos dentro de un array
+- Uso de REDUCE , L.63
+- Constructor de objetos L. 81
+- Uso de PROTOTIPOS L.81
+- Herencia prototipal L.119
+- CLASES L . 162
+- Heredar clases 
+- ASINCRONISMO
+- ASINCRINISMO EN JS USO DE - THEN , FAIL , CATCH - L. 351
+- Instalar J.Query  - L .352
+- Trabajando con una API - L. 366
+- Ejercicio de traere nombre de una base de datos que se mostrar en pantalla - L. 379
+- Uso de promesas ( return new Promise ) - L. 383
+- Uso de promesas ( return new promise ) - L.423
+-  Como conectar un sinumero de promesas - L. 437
+- Pedir informacion de una base de datos - L.465
+- 

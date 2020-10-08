@@ -1,0 +1,4 @@
+- Promesas con arrays - Uso de map - L. 1
+- Llamar varias promesas mediante un array - L. 21
+- Llamar un promesa de forma individual - L. 27
+- Uso de ASYNC - AWAIT  ( await.all , try , catch ) - L. 39

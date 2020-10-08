@@ -1,0 +1,6 @@
+- Requerir paquetes - Required - L. 2
+- Tipos de requires que existes - L. 13
+- Uso de "fs.writeFile" -  L.30
+- Uso de console.log( module );  console.log( process );  console.log( process.agrv ); - L. 37
+- Trabajando con un archivo de otro lugar que nosotros mismos creamos ( require ) - L. 42
+- Creando una tabla de multiplicar en el bloc de notas  con infromacion proveniente de otro archivo.

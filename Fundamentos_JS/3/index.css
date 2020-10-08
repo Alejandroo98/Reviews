@@ -1,0 +1,98 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.eNombre{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.nombreUsuario{
+    display: block;
+    width: 400px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cajaInput{
+    background: burlywood;
+    text-align: center;
+}
+
+.resultado{
+    font-size: 30px;
+}
+
+.cajaRegistro{
+    text-align: center;
+    width: 500px;
+    display: flex;
+    background: rgb(146, 196, 230);
+    font-size: 20px
+}
+
+.cajaRegistro button{
+    border: none;
+    background: rgb(94, 156, 197);
+}
+.cajaRegistro button:hover{
+    background: rgb(118, 174, 209);
+}
+
+
+.cajaLogin{
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    background: rgb(213, 233, 125);
+    width: 500px;
+}
+
+.cajaLogin button{
+    border: none;
+    background: rgb(160, 177, 85);
+    width: 100px;
+
+}
+
+.cajaLogin button:hover{
+    background: rgb(186, 199, 133);
+}
+
+
+.personaje{
+    font-size: 20px;
+    position: relative;
+    padding: 50px 50px 22px 50px;
+    top: 25px;
+    background: rgb(224, 224, 224);
+}
+
+.personaje input{
+    font-size: 19px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    height: 25px;
+}
+
+.personaje button{
+    border-radius: 5px;
+    padding:6px 10px;
+    color: white;
+    background: rgb(37, 33, 33);
+    border: none;
+}
+
+.resultadoPersonaje{
+    margin-top: 15px;
+    font-weight: 700;
+    text-align: center;
+}

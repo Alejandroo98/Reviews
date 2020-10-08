@@ -1,0 +1,17 @@
+- Imprime la ultima letra del nombre de alguien
+- Objetos con funciones -
+- Como llamar a a cierto atributo de un objeto. Linea 52
+- Como modificar los atributos (keys) o agregarle otro de un objeto Linea 74
+- Funciones anonimas Linea 106
+- Funciones flecha L. 104
+- Reduccion de funciones flecha L. 121
+- Funciones con atributos de un objeto L. 126
+- Ejercicio de numero random (Se genera un numero aleatorio y si coincide con el numero que tu elegiste entonces ganas) L. 149
+- Uso de While : Ejercicio ( Tiene que bajar de peso 3K pero no sabemos cuanto tiemmpo le va atoamr ) L. 237
+-Uso de Do While: Ejercicio (VCuantas vees fui a ver si llovia); L. 265
+- Uso de Switch L. 275
+- Arrays/arreglos. Con funciones  294
+- Uso de map en Funciones l. 338
+- Simulacion de registro con map. L .369
+- Manera de cambiar valores de todos los objetos dentro de un array con MAP  L. 404
+

@@ -1,0 +1,10 @@
+ - Destructuracion de objetos - L. 29
+- Ejemplo con callbacks - L. 59
+- Como traer informacion de un usuario uso de Callback - L. 65
+- Simulacion de base de datos para trabajar con CALLBACKS - L. 114
+- Uso de FIND y ejemplos - L. 154
+- Ejercicio : Buscar na persona por media de su salario - L. 180
+- Mas ejercicio de simulacion de base de datos - L. 238
+- Uso de PROMESAS ( return new Promise )  - Resolve , Rejec , Then , Catch - L.337
+- Llamar PROMESAS en cadena - L. 407
+- Uso de ASYNC  - AWAIT  y ejemplos - L. 433
