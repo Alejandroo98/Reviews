@@ -70,7 +70,7 @@ const totalDeLibros = personas.reduce(reducer,10);
 //console.log(totalDeLibros); 
 
 //Opcion 2;
-var otroReducer = personas.reduce((acumulador,iterador) => acumulador + iterador.cantidadDeLibros , 0); //El primer parametor es donde se va acumulando el resultado de todas las sumas, el segundo parametro es el element oes decir el array en este caso.
+var otroReducer = personas.reduce((acumulador,iterador) => acumulador + iterador.cantidadDeLibros , 0); //El primer parametor es donde se va acumulando el resultado de todas las sumas, el segundo parametro es el elemento es decir el array en este caso.
 //EL ultimo numero es a partir de que numero queires empezar a sumar;
 //console.log(otroReducer);
 

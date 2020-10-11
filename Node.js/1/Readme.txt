@@ -4,3 +4,4 @@
 - Uso de console.log( module );  console.log( process );  console.log( process.agrv ); - L. 37
 - Trabajando con un archivo de otro lugar que nosotros mismos creamos ( require ) - L. 42
 - Creando una tabla de multiplicar en el bloc de notas  con infromacion proveniente de otro archivo.
+ - Lo que hicimos hasta la seccion 4 C. 38  fue crear tablas de multiplicar por me dio de la consola, ingresamos el numero de la tabla de multiplicar y la cantiad del mismo asii -> node app crear --limite 10 --base 5     o tambien asi  --> node app crear  -l 10 -b 5        y buen se crearan unos archivos de texto con tablas de multiplicar 
