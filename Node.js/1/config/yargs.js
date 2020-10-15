@@ -1,7 +1,11 @@
 const opts = {
     base : {
         demand : true,
+<<<<<<< HEAD
         alias : "b"
+=======
+        alias : "B"
+>>>>>>> c86ea8fa721ad1e04a1dcfa155fa3a9ddbc09c1b
     },
     limite : {
         alias :  "l",
